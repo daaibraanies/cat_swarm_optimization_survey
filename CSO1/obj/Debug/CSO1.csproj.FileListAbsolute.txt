@@ -1,0 +1,29 @@
+D:\Work Dir\Visual Studio\CSO1\CSO1\bin\Debug\CSO1.exe.config
+D:\Work Dir\Visual Studio\CSO1\CSO1\bin\Debug\CSO1.exe
+D:\Work Dir\Visual Studio\CSO1\CSO1\bin\Debug\CSO1.pdb
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.csprojResolveAssemblyReference.cache
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.Form1.resources
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.Properties.Resources.resources
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.csproj.GenerateResource.Cache
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.exe
+D:\Work Dir\Visual Studio\CSO1\CSO1\obj\Debug\CSO1.pdb
+G:\Some code\CSO1\CSO1\bin\Debug\CSO1.exe.config
+G:\Some code\CSO1\CSO1\bin\Debug\CSO1.exe
+G:\Some code\CSO1\CSO1\bin\Debug\CSO1.pdb
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.csprojAssemblyReference.cache
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.Form1.resources
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.Properties.Resources.resources
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.csproj.GenerateResource.cache
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.csproj.CoreCompileInputs.cache
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.exe
+G:\Some code\CSO1\CSO1\obj\Debug\CSO1.pdb
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\bin\Debug\CSO1.exe.config
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\bin\Debug\CSO1.exe
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\bin\Debug\CSO1.pdb
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.csprojAssemblyReference.cache
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.Form1.resources
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.Properties.Resources.resources
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.csproj.GenerateResource.cache
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.csproj.CoreCompileInputs.cache
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.exe
+C:\Users\leshc\Desktop\Файлы для портфолио\CSO1\CSO1\obj\Debug\CSO1.pdb
